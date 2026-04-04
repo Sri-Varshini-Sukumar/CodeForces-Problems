@@ -30,7 +30,6 @@ Output
 */
 
 
-
 import java.util.*;
 public class PerfectPermutation {
     public static void main(String[] args){
